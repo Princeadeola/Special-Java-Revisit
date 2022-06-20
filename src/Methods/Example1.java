@@ -2,14 +2,20 @@ package Methods;
 
 public class Example1 {
     public static void main(String[] args) {
-        calculate(true, 800, 5, 100);
+        int highScore = calculate(true, 800, 5, 100);
+        System.out.println("The final score is " + highScore);
+
+
+        highScore = calculate(true, 1000, 8, 200);
+        System.out.println("The final score is " + highScore);
     }
 
-    public static void calculate(boolean gameOver, int score, int levelCompleted, int bonus){
+    public static int calculate(boolean gameOver, int score, int levelCompleted, int bonus){
         if (gameOver){
             int finalScore = score + (levelCompleted * bonus);
             finalScore += 1000;
-            System.out.println(finalScore);
+            return finalScore;
         }
+        return -1;
     }
 }
