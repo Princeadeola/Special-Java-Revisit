@@ -14,7 +14,7 @@ public class MegaBytesConverter {
         int megabyte = (kilobytes / 1024);
         int remainingKilobytes = (kilobytes % 1024);
 
-        System.out.println(kilobytes + " KB = " + megabyte +" MG AND " + remainingKilobytes + " KB");
+        System.out.println(kilobytes + " KB = " + megabyte +" MB and " + remainingKilobytes + " KB");
     }
 
     public static void main(String[] args) {
