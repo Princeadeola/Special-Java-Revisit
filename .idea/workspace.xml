@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit" />
+    <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/BarkingDog/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/BarkingDog/barking Dog.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Challenges/OperatorC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcome/OperatorC1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,20 +31,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Methods/Challenges/MegaBytesConverter&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Methods/Challenges/BarkingDog"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\BarkingDog" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MegaBytesConverter" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\SpeedConverter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MegaBytesConverter">
+  <component name="RunManager" selected="Application.BarkingDog">
+    <configuration name="BarkingDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Challenges.BarkingDog.BarkingDog" />
+      <module name="Special-Java-Revisit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.Challenges.BarkingDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisplayHighScorePositionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Challenges.DisplayHighScorePositionExample" />
       <module name="Special-Java-Revisit" />
@@ -79,19 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenges.OperatorC1" />
-      <module name="Special-Java-Revisit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Challenges.SpeedConverter.SpeedConverter" />
       <module name="Special-Java-Revisit" />
@@ -107,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BarkingDog" />
         <item itemvalue="Application.MegaBytesConverter" />
         <item itemvalue="Application.SpeedConverter" />
         <item itemvalue="Application.DisplayHighScorePositionExample" />
         <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.OperatorC1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655997205075</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1655997315862</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655997315862</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-package Challenges;
+package Welcome;
 
 public class OperatorC1 {
     public static void main(String[] args) {
