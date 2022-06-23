@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/MegaBytesConverter/MegaBytesConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/SpeedConverter/SpeedConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/SpeedConverter/speedconvert1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/SpeedConverter/speedconvert2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/SpeedConverter/speedconvert2b.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenges/SpeedConverter/speedconvert2c.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/Challenges/DisplayHighScorePositionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Challenges/DisplayHighScorePositionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Challenges/MegaBytesConverter/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Challenges/MegaBytesConverter/MegaBytesConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Methods/Challenges/MegaBytesConverter"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Methods/Challenges/MegaBytesConverter&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MegaBytesConverter" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\SpeedConverter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpeedConverter">
+  <component name="RunManager" selected="Application.MegaBytesConverter">
     <configuration name="DisplayHighScorePositionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Challenges.DisplayHighScorePositionExample" />
       <module name="Special-Java-Revisit" />
@@ -68,6 +62,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MegaBytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Challenges.MegaBytesConverter.MegaBytesConverter" />
+      <module name="Special-Java-Revisit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.Challenges.MegaBytesConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MegaBytesConverter" />
         <item itemvalue="Application.SpeedConverter" />
         <item itemvalue="Application.DisplayHighScorePositionExample" />
         <item itemvalue="Application.Example1" />
@@ -133,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655765572408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1655781684086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655781684086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1655781712847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655781712847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
