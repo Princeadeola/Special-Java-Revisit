@@ -1,6 +1,6 @@
 package Methods;
 
-public class Example1 {
+public class Question {
     public static void main(String[] args) {
         int highScore = calculate(true, 800, 5, 100);
         System.out.println("The final score is " + highScore);
