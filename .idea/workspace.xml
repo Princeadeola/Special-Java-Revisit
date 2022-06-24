@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/NumberOfDaysInMonth/NumberOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/NumberinWord.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Sum3And5Challenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +34,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/ControlStatements/Challenges"
+    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/ControlStatements/Challenges/NumberOfDaysInMonth"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberOfDaysInMonth" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\AreaCalculator" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\MinutesToYearsDaysCalculator" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\IntEqualityPrinter" />
-      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\PlayingCat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberInWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayOfTheWeekChallenge">
+  <component name="RunManager" selected="Application.Sum3And5Challenge">
     <configuration name="BarkingDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Challenges.BarkingDog.BarkingDog" />
       <module name="Special-Java-Revisit" />
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Challenges.SpeedConverter.SpeedConverter" />
+    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlStatements.Sum3And5Challenge" />
       <module name="Special-Java-Revisit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.Challenges.SpeedConverter.*" />
+          <option name="PATTERN" value="ControlStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum3And5Challenge" />
         <item itemvalue="Application.DayOfTheWeekChallenge" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.BarkingDog" />
         <item itemvalue="Application.MegaBytesConverter" />
-        <item itemvalue="Application.SpeedConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +239,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656087380109</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <created>1656087886712</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656087886712</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <created>1656088001160</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656088001160</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit">
+      <created>1656088074352</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656088074352</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
