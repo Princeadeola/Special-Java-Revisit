@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Sum3And5Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/DigitSumChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlStatements/Challenges/SumOdd/SumOddRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/SumOdd/SumOddRange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +50,13 @@
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberInWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum3And5Challenge">
-    <configuration name="BarkingDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Challenges.BarkingDog.BarkingDog" />
+  <component name="RunManager" selected="Application.DigitSumChallenge">
+    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlStatements.DayOfTheWeekChallenge" />
       <module name="Special-Java-Revisit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.Challenges.BarkingDog.*" />
+          <option name="PATTERN" value="ControlStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStatements.DayOfTheWeekChallenge" />
+    <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlStatements.Challenges.DigitSumChallenge" />
       <module name="Special-Java-Revisit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ControlStatements.*" />
+          <option name="PATTERN" value="ControlStatements.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MegaBytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Challenges.MegaBytesConverter.MegaBytesConverter" />
-      <module name="Special-Java-Revisit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Methods.Challenges.MegaBytesConverter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlStatements.Sum3And5Challenge" />
       <module name="Special-Java-Revisit" />
@@ -115,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOddRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlStatements.Challenges.SumOdd.SumOddRange" />
+      <module name="Special-Java-Revisit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControlStatements.Challenges.SumOdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitSumChallenge" />
+        <item itemvalue="Application.SumOddRange" />
         <item itemvalue="Application.Sum3And5Challenge" />
         <item itemvalue="Application.DayOfTheWeekChallenge" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.BarkingDog" />
-        <item itemvalue="Application.MegaBytesConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656088074352</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit">
+      <created>1656091826448</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656091826448</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
