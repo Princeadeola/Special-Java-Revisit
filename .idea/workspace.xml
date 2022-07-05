@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/DigitSumChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlStatements/Challenges/SumOdd/SumOddRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStatements/Challenges/SumOdd/SumOddRange.java" afterDir="false" />
-    </list>
+    <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -268,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656091826448</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit">
+      <created>1656097252357</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656097252357</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
