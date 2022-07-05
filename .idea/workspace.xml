@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit" />
+    <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/src/Classes/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/SimpleCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +33,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/ControlStatements/Challenges/NumberOfDaysInMonth"
+    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Classes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Classes" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberOfDaysInMonth" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\AreaCalculator" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\MinutesToYearsDaysCalculator" />
-      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\IntEqualityPrinter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberInWord" />
@@ -271,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656097252357</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="commit">
+      <created>1656995652760</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656995652761</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit">
+      <created>1656995692471</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656995692471</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
