@@ -34,4 +34,9 @@ public class Wall {
         }
         this.height = height;
     }
+
+    public void getArea(double width, double height){
+        double area = width * height;
+        System.out.println(area);
+    }
 }

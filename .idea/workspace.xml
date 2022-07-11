@@ -4,6 +4,8 @@
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="committed">
       <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/wall area 1a.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/wall area 1b.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Constructors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Dextron/IdeaProjects/Special-Java-Revisit/src/Constructors/Challenges/WallArea"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Constructors" />
@@ -317,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656997329287</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="committed">
+      <created>1657566293689</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657566293689</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
