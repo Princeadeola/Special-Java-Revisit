@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="committed">
-      <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/wall area 1a.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/wall area 1b.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +40,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Constructors\Challenges\WallArea" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Constructors" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Classes" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberOfDaysInMonth" />
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges" />
-      <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\Methods\Challenges\MethodOverloading\AreaCalculator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberInWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStatements.DayOfTheWeekChallenge" />
+  <component name="RunManager" selected="Application.Constructors.Challenges.WallArea.Main">
+    <configuration name="Constructors.Challenges.WallArea.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructors.Challenges.WallArea.Main" />
       <module name="Special-Java-Revisit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ControlStatements.*" />
+          <option name="PATTERN" value="Constructors.Challenges.WallArea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructors.Challenges.WallArea.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DigitSumChallenge" />
         <item itemvalue="Application.SumOddRange" />
         <item itemvalue="Application.Sum3And5Challenge" />
-        <item itemvalue="Application.DayOfTheWeekChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657566293689</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="committed">
+      <created>1657566576076</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657566576076</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
