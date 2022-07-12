@@ -50,7 +50,7 @@
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberInWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Constructors.Challenges.WallArea.Main">
+  <component name="RunManager" selected="Application.Inheritance.Challenges.Cylinder.Main">
     <configuration name="Constructors.Challenges.WallArea.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constructors.Challenges.WallArea.Main" />
       <module name="Special-Java-Revisit" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Main" />
+    <configuration name="Inheritance.Challenges.Cylinder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Challenges.Cylinder.Main" />
       <module name="Special-Java-Revisit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Inheritance.Challenges.Cylinder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStatements.Sum3And5Challenge" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Main" />
       <module name="Special-Java-Revisit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ControlStatements.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance.Challenges.Cylinder.Main" />
         <item itemvalue="Application.Constructors.Challenges.WallArea.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DigitSumChallenge" />
         <item itemvalue="Application.SumOddRange" />
-        <item itemvalue="Application.Sum3And5Challenge" />
       </list>
     </recent_temporary>
   </component>
