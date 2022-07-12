@@ -1,7 +1,7 @@
 package Inheritance.Challenges.Cylinder;
 
 public class Circle {
-    private double radius;
+    public double radius;
 
     public Circle(double radius) {
         if (radius < 0){
