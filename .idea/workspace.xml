@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="committed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructors/Challenges/WallArea/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -331,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657566576076</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="committed">
+      <created>1657567558132</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1657567558132</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
