@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="committed">
-      <change afterPath="$PROJECT_DIR$/src/Composition/Challange1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,20 @@
       <recent name="C:\Users\Dextron\IdeaProjects\Special-Java-Revisit\src\ControlStatements\Challenges\NumberInWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance.Challenges.Cylinder.Main">
+  <component name="RunManager" selected="Application.Composition.Challange1.Main">
+    <configuration name="Composition.Challange1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.Challange1.Main" />
+      <module name="Special-Java-Revisit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composition.Challange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Constructors.Challenges.WallArea.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constructors.Challenges.WallArea.Main" />
       <module name="Special-Java-Revisit" />
@@ -101,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOddRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStatements.Challenges.SumOdd.SumOddRange" />
-      <module name="Special-Java-Revisit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ControlStatements.Challenges.SumOdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Composition.Challange1.Main" />
         <item itemvalue="Application.Inheritance.Challenges.Cylinder.Main" />
         <item itemvalue="Application.Constructors.Challenges.WallArea.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DigitSumChallenge" />
-        <item itemvalue="Application.SumOddRange" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657729997158</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="committed">
+      <created>1657730341661</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1657730341661</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
