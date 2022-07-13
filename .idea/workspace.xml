@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226f7c48-8b09-4286-a444-48980c906522" name="Changes" comment="committed">
-      <change afterPath="$PROJECT_DIR$/src/Composition/Challange1/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Challange1/Bedroom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -392,7 +392,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657729381624</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="committed">
+      <created>1657729563643</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1657729563643</updated>
+    </task>
+    <task id="LOCAL-00039" summary="committed">
+      <created>1657729676536</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1657729676536</updated>
+    </task>
+    <task id="LOCAL-00040" summary="committed">
+      <created>1657729741851</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1657729741851</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
